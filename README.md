@@ -1,4 +1,16 @@
-# 🚦 언제그린
+<div align="center">
+
+<img width="150px" src="https://github.com/user-attachments/assets/35db8a9a-a42f-4699-a990-536166a8c30f" />
+
+# 🚦 언제그린 🚦
+**삼성 청년 SW 아카데미 11기 특화 프로젝트 - 빅데이터 분산 우수상 🏆**
+
+보행자를 위한 실시간 횡단보도 잔여시간 제공 네비게이션 서비스 </br>  
+2024.08.19 ~ 2024.10.11
+
+<br/>
+
+</div>
 
 ### 📜 Contents
  1. [Overview](#-overview)
@@ -148,68 +160,69 @@
 
 ## 🖥️ 개발 환경
 
-**🐳 Backend**
-- Java `17`
-- Ubutu `20.1.0`
-- SpringBoot `3.3.3`
-- Gradle `7.5`
-- Swagger
-- Spring Security
-- spark `3.4.0`
+### 🐳 Backend
+<div> 
+	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+	<img src="https://img.shields.io/badge/Ubuntu-20.1.0-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+	<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+	<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
+	<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+	<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white">
+</div>
+<br/>
 
-**🦊 Frontend**
-- lang: dart `16.16.0`
-- framework: flutter `3.24.3`
-- 상태관리 : provider `6.1.2`
+### 🦊 Frontend
+<div>
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+	<img src="https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=Provider&logoColor=white">
+	<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google-Maps&logoColor=white">
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
+</div>
+<br/>
 
-```
-sdk: flutter
-  cupertino_icons: ^1.0.8
-  permission_handler: ^8.3.0
-  google_maps_flutter: ^2.9.0
-  flutter_google_places: ^0.3.0
-  google_maps_webservice: ^0.0.19
-  location: ^6.0.2
-  geolocator: ^13.0.1
-  geocoding: ^3.0.0
-  provider: ^6.1.2
-  http: ^0.13.6
-  speech_to_text: ^7.0.0
-  flutter_secure_storage: ^9.2.2
-  kakao_flutter_sdk_user: ^1.9.6
-  intl: ^0.17.0
-  firebase_messaging: ^15.1.2
-  googleapis_auth: ^1.4.1
-  flutter_local_notifications: ^17.2.3
-  lottie: ^2.2.0
-  confetti: ^0.8.0
-```
  
-**🦊WearOS**
-- Kotlin `1.8`
-- Retrofit `2.9.0`
-- Google Maps `4.4.1`
-- Lottie ` 6.0.0`
-- Firebase Messaging
- 
+### 🦊 WearOS
+<div>
+	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+	<img src="https://img.shields.io/badge/Retrofit-FF6F00?style=for-the-badge&logo=Retrofit&logoColor=white">
+	<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google-Maps&logoColor=white">
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">	
+	<img src="https://img.shields.io/badge/Lottie-8DD6F9?style=for-the-badge&logo=Lottie&logoColor=white">
+</div>
+<br/>
 
-**🗂️ DB**
-- MySQL `8.0.30`
-- MongoDB
-- Redis
+### 🗂️ DB
+<div>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+	<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">	
+</div>
+<br/>
 
-**🌐 Server**
-- Ubuntu `20.0.4`
-- Nginx `1.23`
-- PuTTY `0.77`
-- Docker `20.10.18`
-- Jenkins `Jenkins/jenkins:lts-jdk11`
 
-**🔨 IDE**
-- IntelliJ `2024.2.1`
-- MySQL Workbench `8.0.29`
-- VSCode `1.69.2`
-- Android Studio `2024.1.2`
+### 🌐 Server
+<div>
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
+	<img src="https://img.shields.io/badge/PuTTY-023161?style=for-the-badge&logo=PuTTY&logoColor=white">
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+	<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+</div>
+<br/>
+
+
+### 🔨 IDE
+<div>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white">	
+</div>
+<br/>
+
 
 ## 💫 시스템 아키텍처
 
